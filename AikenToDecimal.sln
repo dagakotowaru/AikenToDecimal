@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AikenToDecimal", "AikenToDecimal\AikenToDecimal.csproj", "{579F1755-90EB-4D42-9CB8-570712F82FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{579F1755-90EB-4D42-9CB8-570712F82FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579F1755-90EB-4D42-9CB8-570712F82FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579F1755-90EB-4D42-9CB8-570712F82FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579F1755-90EB-4D42-9CB8-570712F82FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDA8CA5B-740E-4B27-A530-7A9619B2028C}
+	EndGlobalSection
+EndGlobal
